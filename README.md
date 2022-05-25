@@ -1,6 +1,6 @@
-## Olá! Eu soua a raissacampos
+## Olá! Eu sou a raissacampos
 
-- 🌱 Estudante de
+- 🌱 Curso Técnico de Informática para Internet
 - 😄 Pronouns: ela/dela
 
 <div>
